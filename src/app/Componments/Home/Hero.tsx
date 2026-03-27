@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const Hero = () => {
   return (
     <div>
-       <section className="relative bg-gradient-to-bl from-indigo-900 via-purple-800 to-pink-700 text-white py-32 overflow-hidden">
+       <section className="relative bg-gradient-to-bl from-indigo-900 via-purple-800 to-pink-700 text-white py-32 overflow-hidden mt-20">
       {/* Left Side - Rotating Multi-Layer Images */}
       <div className="absolute top-16 left-10 w-60 h-60">
         <motion.div

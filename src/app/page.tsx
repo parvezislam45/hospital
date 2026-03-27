@@ -11,7 +11,7 @@ import Navbar from "./Shered/Navbar";
 
 export default function Home() {
   return (
-    <div className="max-w-screen-2xl mx-auto">
+    <div>
      <Navbar/>
      <Hero/>
      <Services/>
